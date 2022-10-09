@@ -1,0 +1,49 @@
+#leftBanner {
+	background-color: #29434E;
+	color: white;
+	text-align: center;
+	width: 70%;
+	height: 70px;
+	float: left;
+}
+
+#rightBanner {
+	background-color: #29434E;
+	color: white;
+	width: 30%;
+	height: 70px;
+	float: right;
+}
+
+.video {
+	float: left;
+	max-width: 226px;
+	height: 280px;
+	padding: 5px;
+}
+
+.videoContainer {
+	background-color: #B0BEC5;
+	height: 320px;
+	overflow: scroll;
+}
+
+body {
+	font-family: "Verdana";
+}
+
+footer {
+	background-color: #29434E;
+	color: white;
+}
+
+h3 {
+	background-color: #546E7A;
+	color: white;
+	margin: 0px;
+}
+
+h4 {
+	text-align: center;
+	margin: 0px;
+}
